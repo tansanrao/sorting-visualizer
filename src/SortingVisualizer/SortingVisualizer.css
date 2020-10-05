@@ -1,0 +1,11 @@
+.array-container {
+  place-self: end center;
+  margin-bottom: 50px;
+}
+
+.array-bar {
+  width: 4px;
+  background-color: #ff7350;
+  display: inline-block;
+  margin: 0 2px;
+}
